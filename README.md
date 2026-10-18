@@ -1,9 +1,9 @@
-# 👋 Halo, Saya Dwi Andina! 🎉
+# 👋 Halo, Saya Mukhammad Nuruddin Alhaffaf! 🎉
 
 ## 📋 Informasi Pribadi
-- **Nama**: Dwi Andina Putri
-- **NIM**: 230605110157
-- **Kelas Praktikum**: B
+- **Nama**: Mukhammad Nuruddin Alhaffaf
+- **NIM**: 240605110259
+- **Kelas Praktikum**: F
 
 | No  | Tgl  | Praktikum ke  | Topik  | Laporan | Repository |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | 
