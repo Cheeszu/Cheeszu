@@ -18,7 +18,7 @@
 |  9 | 01-10-2025  | 05  | StatefulWidget  | [Modul 09]() | [Program](https://github.com/Cheeszu/Modul9_MobProPrak) |
 |  10 | 08-10-2025  | 06  | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter  | [Modul 10](https://drive.google.com/file/d/1_hkqWo08ifjyuDyWE_cTtIPoO55zPspx/view?usp=sharing) | [Program](https://github.com/Cheeszu/Modul10_MobProPrak) |
 |  11 | 15-10-2025  | 07  | Manajemen State dengan GetX  | [Modul 11](https://drive.google.com/file/d/1tujP6xNtxiV6xT0HqwEaPYghSrba8cdr/view?usp=sharing) | [Program](https://github.com/Cheeszu/Modul11_MobProPrak) |
-|  12 | 25-10-2025  | 08  | Ujian Tengah Seemester  | [UTS]() | [Program](https://github.com/Cheeszu/UTS_MobProPrak) |
+|  12 | 25-10-2025  | 08  | Ujian Tengah Seemester  | [UTS](https://drive.google.com/file/d/1OmExdux4E_hnwCfTyzDW53g_u6Cuy2BX/view?usp=sharing) | [Program](https://github.com/Cheeszu/UTS_MobProPrak) |
 |  13 | 05-11-2025  | 09  | Akses Lokasi dengan GPS di Flutter  | [Modul 12]() | [Program](https://github.com/dwiandina08-oss/lokasi_flutter "Template laporan") |
 |  14 | 19-11-2025  | 10  | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API  | [Modul 13]() | [Program](https://github.com/dwiandina08-oss/flutter_crud_api "Template laporan") |
 |  15 | 11-12-2025  | 11  | Ujian Akhir Semester  | [Modul 13]() | [Program](https://github.com/dwiandina08-oss/UAS "Template laporan") |
